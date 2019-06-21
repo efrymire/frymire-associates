@@ -1,0 +1,77 @@
+[
+  {
+    company: "medtronic",
+    measure: "coronary stents",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "transcatheter valves",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "renal denervation",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "drug coated balloons",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "ivus",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "coronary stents",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "transcatheter valves",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "renal denervation",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "drug coated balloons",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "ivus",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "coronary stents",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "transcatheter valves",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "renal denervation",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "drug coated balloons",
+    value: Math.floor(Math.random() * 100),
+  },
+  {
+    company: "medtronic",
+    measure: "ivus",
+    value: Math.floor(Math.random() * 100),
+  },
+];
